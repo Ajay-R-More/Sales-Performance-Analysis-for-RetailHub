@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,Price
+1,Jacket,Fashion,56.05
+2,Jacket,Fashion,59.31
+3,Sneakers,Fashion,96.17
+4,Sneakers,Fashion,88.93
+5,Yoga Mat,Sports,19.5
+6,Football,Sports,45.6
+7,Tablet,Electronics,31.14
+8,Football,Sports,22.17
+9,Tablet,Electronics,49.57
+10,Football,Sports,69.45
+11,Running Shoes,Sports,50.27
+12,Bed,Home,43.89
+13,Dumbbells,Sports,38.86
+14,Laptop,Electronics,51.0
+15,Smartphone,Electronics,88.45
+16,Lamp,Home,82.39
+17,Yoga Mat,Sports,21.35
+18,Bed,Home,46.54
+19,Bed,Home,92.42
+20,Smartwatch,Electronics,45.07
+21,Yoga Mat,Sports,97.39
+22,Running Shoes,Sports,80.81
+23,Smartphone,Electronics,33.42
+24,Sneakers,Fashion,37.46
+25,Handbag,Fashion,62.93
+26,Lipstick,Beauty,70.43
+27,Bed,Home,46.43
+28,Sneakers,Fashion,36.63
+29,Bluetooth Speaker,Electronics,74.64
+30,Dumbbells,Sports,34.04
+31,Smartwatch,Electronics,70.59
+32,Rug,Home,91.69
+33,Jeans,Fashion,22.66
+34,Perfume,Beauty,78.27
+35,Dumbbells,Sports,10.62
+36,Sofa,Home,27.44
+37,Lipstick,Beauty,11.56
+38,Tennis Racket,Sports,70.43
+39,T-shirt,Fashion,77.87
+40,Dining Table,Home,27.74
+41,T-shirt,Fashion,93.55
+42,Perfume,Beauty,96.86
+43,Shampoo,Beauty,59.72
+44,Sneakers,Fashion,98.73
+45,Bluetooth Speaker,Electronics,66.02
+46,Laptop,Electronics,24.17
+47,Tablet,Electronics,20.22
+48,T-shirt,Fashion,60.49
+49,Football,Sports,83.96
+50,Tennis Racket,Sports,99.6
+51,Jeans,Fashion,67.22
+52,Tennis Racket,Sports,33.59
+53,Lipstick,Beauty,58.92
+54,Bluetooth Speaker,Electronics,68.53
+55,Foundation,Beauty,19.7
+56,Handbag,Fashion,99.53
+57,Bed,Home,29.63
+58,Running Shoes,Sports,64.93
+59,Sofa,Home,37.69
+60,Jeans,Fashion,51.09
+61,Sneakers,Fashion,78.02
+62,Running Shoes,Sports,11.67
+63,Rug,Home,59.37
+64,Sneakers,Fashion,41.4
+65,Tennis Racket,Sports,56.69
+66,Bluetooth Speaker,Electronics,59.56
+67,Conditioner,Beauty,29.92
+68,Sofa,Home,25.14
+69,Lamp,Home,25.17
+70,Running Shoes,Sports,93.6
+71,Perfume,Beauty,63.77
+72,Smartwatch,Electronics,39.99
+73,Smartphone,Electronics,44.87
+74,Rug,Home,62.48
+75,Yoga Mat,Sports,88.63
+76,Smartphone,Electronics,77.03
+77,Handbag,Fashion,23.42
+78,Shampoo,Beauty,84.11
+79,Yoga Mat,Sports,69.2
+80,Tablet,Electronics,39.44
+81,Shampoo,Beauty,71.75
+82,Dining Table,Home,39.56
+83,Yoga Mat,Sports,82.9
+84,Yoga Mat,Sports,40.85
+85,Dumbbells,Sports,23.16
+86,Bed,Home,23.2
+87,Bed,Home,69.9
+88,Tablet,Electronics,53.0
+89,Yoga Mat,Sports,74.12
+90,Rug,Home,97.61
+91,Laptop,Electronics,36.28
+92,Perfume,Beauty,54.3
+93,Running Shoes,Sports,20.18
+94,Smartphone,Electronics,78.34
+95,Laptop,Electronics,38.78
+96,Running Shoes,Sports,58.67
+97,Jeans,Fashion,82.59
+98,Yoga Mat,Sports,46.77
+99,Smartwatch,Electronics,26.6
+100,Handbag,Fashion,73.44
